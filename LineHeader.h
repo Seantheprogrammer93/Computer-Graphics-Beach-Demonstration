@@ -3,7 +3,7 @@
 #include <iostream>
 #include <cmath>
 
-#define e 2.71828 // Define the approx. e constant
+#define e 2.718 // Define the approx. e constant
 
 class LineProperties 
 {
