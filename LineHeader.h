@@ -36,18 +36,18 @@ public:
             SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 46) + (slopeOfLine) * i), sandColor); // 7th line
             SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 47) + (slopeOfLine) * i), sandColor); // 8th line
             SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 48) + (slopeOfLine) * i), sandColor); // 9th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 49) + (slopeOfLine)*i), sandColor); // 10th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 50) + (slopeOfLine)*i), sandColor); // 11th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 51) + (slopeOfLine)*i), sandColor); // 12th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 52) + (slopeOfLine)*i), sandColor); // 13th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 53) + (slopeOfLine)*i), sandColor); // 14th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 54) + (slopeOfLine)*i), sandColor); // 15th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 55) + (slopeOfLine)*i), sandColor); // 16th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 56) + (slopeOfLine)*i), sandColor); // 17th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 57) + (slopeOfLine)*i), sandColor); // 18th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 58) + (slopeOfLine)*i), sandColor); // 10th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 59) + (slopeOfLine)*i), sandColor); // 20th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 60) + (slopeOfLine)*i), sandColor); // 21st line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 49) + (slopeOfLine) * i), sandColor); // 10th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 50) + (slopeOfLine) * i), sandColor); // 11th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 51) + (slopeOfLine) * i), sandColor); // 12th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 52) + (slopeOfLine) * i), sandColor); // 13th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 53) + (slopeOfLine) * i), sandColor); // 14th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 54) + (slopeOfLine) * i), sandColor); // 15th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 55) + (slopeOfLine) * i), sandColor); // 16th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 56) + (slopeOfLine) * i), sandColor); // 17th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 57) + (slopeOfLine) * i), sandColor); // 18th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 58) + (slopeOfLine) * i), sandColor); // 10th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 59) + (slopeOfLine) * i), sandColor); // 20th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 60) + (slopeOfLine) * i), sandColor); // 21st line
 
             pixel++; // Increment pixels
         }
