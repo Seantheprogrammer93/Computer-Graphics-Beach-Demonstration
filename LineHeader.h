@@ -45,7 +45,7 @@ public:
             SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 55) + (slopeOfLine) * i), sandColor); // 16th line
             SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 56) + (slopeOfLine) * i), sandColor); // 17th line
             SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 57) + (slopeOfLine) * i), sandColor); // 18th line
-            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 58) + (slopeOfLine) * i), sandColor); // 10th line
+            SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 58) + (slopeOfLine) * i), sandColor); // 19th line
             SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 59) + (slopeOfLine) * i), sandColor); // 20th line
             SetPixel(concoleDeviceContext, pixel, (int)((yIntercept + 60) + (slopeOfLine) * i), sandColor); // 21st line
 
