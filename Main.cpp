@@ -1,4 +1,4 @@
-#include "LineHeader.H"
+#include "LineHeader.h"
 
 int main()
 {
